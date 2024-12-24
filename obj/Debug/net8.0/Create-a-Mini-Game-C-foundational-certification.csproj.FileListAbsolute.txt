@@ -1,0 +1,15 @@
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\bin\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.exe
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\bin\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.deps.json
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\bin\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.runtimeconfig.json
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\bin\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.dll
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\bin\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.pdb
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.AssemblyInfoInputs.cache
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.AssemblyInfo.cs
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.csproj.CoreCompileInputs.cache
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.sourcelink.json
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.dll
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\refint\Create-a-Mini-Game-C-foundational-certification.dll
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.pdb
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\Create-a-Mini-Game-C-foundational-certification.genruntimeconfig.cache
+C:\Users\farik\Desktop\C#_GuidedProjects\Create-a-Mini-Game-C-foundational-certification\obj\Debug\net8.0\ref\Create-a-Mini-Game-C-foundational-certification.dll
